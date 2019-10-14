@@ -1,23 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1,MTV
-http://189.216.247.113/Content/HLS/Live/Channel(MTV_HD)/index.m3u8
-
-#EXTINF:-1,MTV LIVE 
-http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
-
-#EXTINF:-1,MTV HD 
-http://37.192.2.141:81/udp/239.1.21.44:1234.m3u8
-
-#EXTINF:-1,MTV ROCKS 
-http://188.165.13.95:8080/205/index.m3u8 
-
-#EXTINF:-1,MTV 
-http://188.165.13.95:8080/206/index.m3u8 
-
-#EXTINF:-1,MTV DANCE
-http://188.165.13.95:8080/207/index.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Wfqt9BS.png" group-title="USA",Nat Geo People (MENA)
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
  
@@ -69,17 +51,8 @@ http://161.0.157.50/PLTV/88888888/224/3221227041/03.m3u8
 #EXTINF:-1 tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News (Opt-1)
 http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.depauw.edu/files/resources/large_cbs-news.png" group-title="USA",CBS News (Opt-2)
-https://dai.google.com/linear/hls/event/Sid4xiTQTkCT1SLu6rjUSQ/master.m3u8?iu=/8264/vaw-can/mobile_web/cbsnews_mobile
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/53EgUZN.png" group-title="USA",CNBC (No-Vid)
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-14/index.m3u8?fluxustv.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/f0FtDEI.png" group-title="USA",Court TV
 https://content.uplynk.com/channel/92c7be9fb47143a58683d202e321e571.m3u8?fluxustv.m3u8
-
-#EXTINF:-1 tvg-logo="https://logos-download.com/wp-content/uploads/2016/02/The_CW_logo_4800x2000.png" group-title="USA",CW (WSFL) (EST)
-http://190.80.3.28/CW/CW.isml/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-logo="https://vignette.wikia.nocookie.net/disney/images/8/83/Disney_Junior_Logo.png" group-title="USA",Disney Junior
 https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8?exp=1557726334&ct=c&cid=2696c852412a4041ba3b771e0a5e3c74&iph=dfedfaaeca06c9f40140cd2a0ac49a55790c044d07d90e043edad3ab32e2f603&rays=hjigfedcba&euid=5F8C9D89-CA39-4C23-9A6B-2A6A0A145CCB_013_1_001_live_04-06-99_1.1.1.15&cdn=ec&stgcfg=datg&pp2ip=0&delay=10800&ddp=1&expand=drmOff&v=3&sig=a07044f5b44c510bab5cd40a76b8b5839f0711064f090d2747280ebd7798e0dc&pbs=377d94b7fb794124b73c58474a01270a
@@ -87,14 +60,11 @@ https://content-ause4.uplynk.com/channel/2696c852412a4041ba3b771e0a5e3c74/h.m3u8
 #EXTINF:-1 tvg-logo="https://static.iptv-epg.com/us/FoxNews.us.png" group-title="USA",Fox News
 https://1329918864.rsc.cdn77.org/ls-54548-1/index.m3u8?fluxustv.m3u8
 
- #EXTINF:-1 tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="USA",HBO 2 (LA)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Z8zQ2XM.png" group-title="USA",HBO 2 (LA)
 http://161.0.157.5/PLTV/88888888/224/3221227026/index.m3u8?fluxustv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="USA",MLB Network
 http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8
-
-#EXTINF:-1 tvg-logo="http://golikemariana.com/wp-content/uploads/2017/08/msnbc-blanco-1.png" group-title="USA",MSNBC
-https://1674331492.rsc.cdn77.org/LS-ATL-54548-15/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/en/c/c6/Music_Choice_logo.png" group-title="USA",Music Choice
 http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
@@ -102,12 +72,6 @@ http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/8/8f/KidsClickLogo.png" group-title="USA GEO",Kids Click (Geo)
 https://usgeowall.sinclairstoryline.com/channel/1698bf57810a48c486b83d542bca298d.m3u8?tc=1&exp=1614631202&rn=1698140798&ct=c&cid=1698bf57810a48c486b83d542bca298d&repl=aboi&sig=3c0463729cd2ddcb9509c3130849b8737dd917ccbaafaccb832d0ec43cae6db5
  
-#EXTINF:-1 tvg-logo="https://i.imgur.com/nGIOiF6.png" group-title="USA GEO",Discovery Velocity (Geo)
-http://195.181.169.148/Discovery_velocity_121_Eng/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f9/Food_Network_New_Logo.png" group-title="USA GEO",Food Network (Geo)
-http://195.181.169.148/FOODNETHD_USA_Eng/tracks-v1a1/mono.m3u8
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dfaJpw4.png" group-title="USA GEO",Hallmark Movies & Mysteries (Geo)
 http://crownmediaingest.akamaized.net/hls/live/567739/mm/master.m3u8?hdnts=exp=3053348551~acl=/*~hmac=592bc88702cf4f549f6fa1233adcf78fdff0209e062d72a244dce61650291d26
  
@@ -120,14 +84,8 @@ http://stitcher.pluto.tv/stitch/hls/channel/562ea53fa9060c5a7d463e74/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/b6e39f2b-47cc-772e-65eb-e40ef08c79ce-ClassicTV_featured.jpg" group-title="24/7 PLUTO TV",Classic TV
 http://stitcher.pluto.tv/stitch/hls/channel/55383613c0b860c11a631e36/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/621e2260-8beb-16a9-eaf6-c7442107a1d8-Clevver_Hero.jpg" group-title="24/7 PLUTO TV",Clevver
-http://stitcher.pluto.tv/stitch/hls/channel/587599db0decb235457c956d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AlMIGmj.jpg" group-title="24/7 PLUTO TV",CMT Westerns
 https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ncuqage0urlhccbp8kbecjc830
- 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/2000px-CNBC_logo.svg.png" group-title="24/7 PLUTO TV",CNBC
-http://stitcher.pluto.tv/stitch/hls/channel/57ebfd64f70792b24b5bd9a6/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
  
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/7cd92dbc-3121-2ec3-774e-a46148805439-CNET-channel-feature.jpg" group-title="24/7 PLUTO TV",CNET
 http://stitcher.pluto.tv/stitch/hls/channel/56283c8769ba54637dea0464/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -141,9 +99,6 @@ http://stitcher.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a4d3a00ad95e4718ae8d8db/featuredImage.jpg" group-title="24/7 PLUTO TV",Comedy
 https://stitcher.pluto.tv/stitch/hls/channel/5a4d3a00ad95e4718ae8d8db/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=qb3stkgum0jt2soq367mu97333
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c363c2411c5ca053f198f97/featuredImage.jpg" group-title="24/7 PLUTO TV",Comedy (UK)
-https://stitcher.pluto.tv/stitch/hls/channel/5c363c2411c5ca053f198f97/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=d45b9ea1nuf9ijm985tiag4ge6
-
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca671f215a62078d2ec0abf/featuredImage.jpg" group-title="24/7 PLUTO TV",Comedy Central
 https://stitcher.pluto.tv/stitch/hls/channel/5ca671f215a62078d2ec0abf/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ecuqage0urlhccbp8kbecjc830
 
@@ -152,15 +107,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ca675d6593a5d78f0e85c2e/master.m3u
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1b439ea5c9e53afd21325/featuredImage.jpg" group-title="24/7 PLUTO TV",Complex Networks
 https://stitcher.pluto.tv/stitch/hls/channel/5bb1b439ea5c9e53afd21325/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a986f9svfip7e01cg9g78c92l4
-
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5adf96e3e738977e2c31cb04/featuredImage.jpg" group-title="24/7 PLUTO TV",Conspiracy
-https://stitcher.pluto.tv/stitch/hls/channel/5adf96e3e738977e2c31cb04/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=m24jbjrh2o33lln3jns6j2tmn0
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5bb1bb65268cae539bcedb0c/featuredImage.jpg" group-title="24/7 PLUTO TV",ConTV
-http://stitcher.pluto.tv/stitch/hls/channel/5bb1bb65268cae539bcedb0c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/ab51f0fb-5cfb-d826-5de8-0527fa983eba-cracked-channel-feature%20(1).jpg" group-title="24/7 PLUTO TV",Cracked
-http://stitcher.pluto.tv/stitch/hls/channel/561c5d74ada51f8004c4d85d/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5cf0627e3c6efae31002e114/featuredImage.jpg" group-title="24/7 PLUTO TV",Crazy Pets
 https://stitcher.pluto.tv/stitch/hls/channel/5cf0627e3c6efae31002e114/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=500lm1j6kehed04ucl6d6fc4q7
@@ -185,9 +131,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5bee1a7359ee03633e780238/master.m3u
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e92e4694c027be6ecece1/featuredImage.jpg" group-title="24/7 PLUTO TV",Drama
 http://stitcher.pluto.tv/stitch/hls/channel/5b4e92e4694c027be6ecece1/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2dd9e59bf23c192c411e/featuredImage.jpg" group-title="24/7 PLUTO TV",Drama (UK)
-https://stitcher.pluto.tv/stitch/hls/channel/5c5c2dd9e59bf23c192c411e/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=c63a4iic6a2islfekugkgdsul4
 
 #EXTINF:-1 tvg-logo="https://pmcvariety.files.wordpress.com/2016/02/dramafever-logo.jpg" group-title="24/7 PLUTO TV",DramaFever
 http://stitcher.pluto.tv/stitch/hls/channel/5a667765a5c02e717a25dc0f/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=6&deviceId=&deviceVersion=&appVersion=&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
@@ -345,15 +288,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn.crowdfundinsider.com/wp-content/uploads/2015/11/Mystery-Science-Theater-3000-logo.png" group-title="24/7 PLUTO TV",Mystery Science Theater 3000
 http://stitcher.pluto.tv/stitch/hls/channel/545943f1c9f133a519bbac92/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/NBC_News_2011.svg/1200px-NBC_News_2011.svg.png" group-title="24/7 PLUTO TV",NBC News
-http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/bb5b66a2-9927-94fe-a346-751120398eb3-Nerdist_hero.jpg" group-title="24/7 PLUTO TV",Nerdist
-http://stitcher.pluto.tv/stitch/hls/channel/561c5c7f3286e48904fb2586/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/f99bf312-8fce-5925-f11b-41ba1cd7829b-News247_featured.jpg" group-title="24/7 PLUTO TV",News 24/7
-http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca673e0d0bd6c2689c94ce3/featuredImage.jpg" group-title="24/7 PLUTO TV",Nick
 https://stitcher.pluto.tv/stitch/hls/channel/5ca673e0d0bd6c2689c94ce3/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=bcuqage0urlhccbp8kbecjc830
  
@@ -378,32 +312,11 @@ https://stitcher.pluto.tv/stitch/hls/channel/5c5c3195f21b553c1f673faf/master.m3u
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c5c2b9d8002db3c3e0b1c6d/featuredImage.jpg" group-title="24/7 PLUTO TV",Retro Toons
 https://stitcher.pluto.tv/stitch/hls/channel/5c5c2b9d8002db3c3e0b1c6d/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=a45b9ea1nuf9ijm985tiag4ge6
 
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ac7d243cd17c85601684f57/featuredImage.jpg" group-title="24/7 PLUTO TV",Revry
-https://stitcher.pluto.tv/stitch/hls/channel/5ac7d243cd17c85601684f57/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=iaasl9n3jh3esnglai5na3geu7
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://static.rifftrax.com/sites/default/files/logo-sm.png" group-title="24/7 PLUTO TV",RiffTrax
-http://stitcher.pluto.tv/stitch/hls/channel/58d947b9e420d8656ee101ab/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5a66795ef91fef2c7031c599/featuredImage.jpg" group-title="24/7 PLUTO TV",Romance
-https://stitcher.pluto.tv/stitch/hls/channel/5a66795ef91fef2c7031c599/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=rb3stkgum0jt2soq367mu97333
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/f7531066-b03f-9806-4292-b2cce8913a23-ScienceTV_featured.jpg" group-title="24/7 PLUTO TV",Science TV
-http://stitcher.pluto.tv/stitch/hls/channel/563a970aa1a1f7fe7c9daad7/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://upload.zype.com/53c0457a69702d4d66040000/zobject_image/54c923da69702d070c177700/1422468057/original.png?1422468057" group-title="24/7 PLUTO TV",ShoutFactoryTV
-http://stitcher.pluto.tv/stitch/hls/channel/55a6a3275616b6240c26f393/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5c2d64ffbdf11b71587184b8/featuredImage.jpg" group-title="24/7 PLUTO TV",Sitcoms
 https://stitcher.pluto.tv/stitch/hls/channel/5c2d64ffbdf11b71587184b8/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=z8orq3a8c0i8mnij1r1q96i7p0
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/9ed1cafa-b155-dbe3-f0d9-688d256804a7-SlowTV_hero.jpg" group-title="24/7 PLUTO TV",Slow TV
-http://stitcher.pluto.tv/stitch/hls/channel/5317bfebff98025b3200ff99/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=b4c19bad-f2ee-41c2-8e28-fbd87d36e3a3&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JGD62i8.jpg" group-title="24/7 PLUTO TV",Spike
 https://stitcher.pluto.tv/stitch/hls/channel/5812bcc8237a6ff45d16c407/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=lcuqage0urlhccbp8kbecjc830
-
-#EXTINF:-1 tvg-logo="https://i.imgur.com/3bp1B22.jpg" group-title="24/7 PLUTO TV",Spike Outdoors
-https://stitcher.pluto.tv/stitch/hls/channel/5c393cad2de254456f7ef8c2/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=mcuqage0urlhccbp8kbecjc830
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/56340779a738201b4ccfeac9/featuredImage.jpg" group-title="24/7 PLUTO TV",Sports
 https://stitcher.pluto.tv/stitch/hls/channel/56340779a738201b4ccfeac9/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=tb3stkgum0jt2soq367mu97333
@@ -419,15 +332,6 @@ https://stitcher.pluto.tv/stitch/hls/channel/5c6eec031846c82e15e01a9a/master.m3u
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/0d2aa422-73cb-a635-1058-66bbcf517773-StandUp_featured.jpg" group-title="24/7 PLUTO TV",Stand-Up TV
 http://stitcher.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=4&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/880ab7c4-5a84-dd74-f084-ecc22cba366f-TheHighChannel_featured.jpg" group-title="24/7 PLUTO TV",THC
-http://stitcher.pluto.tv/stitch/hls/channel/5633f71888576f124c834ef4/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
- 
-#EXTINF:-1 tvg-logo="https://www.dreadcentral.com/wp-content/uploads/2016/01/the-asylum-logo.jpg" group-title="24/7 PLUTO TV",The Asylum
-http://stitcher.pluto.tv/stitch/hls/channel/591105034c1806b47438342c/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="http://pluto.tv.s3.amazonaws.com/assets/images/channels/57f9f46b-8671-b9f3-78a1-94a4941bd3bf-TheFeed_featured.jpg" group-title="24/7 PLUTO TV",The Feed
-http://stitcher.pluto.tv/stitch/hls/channel/54173136ff9fba68282f4d53/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high
 
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5ca68b45d0bd6c2689c96537/featuredImage.jpg" group-title="24/7 PLUTO TV",The Hills
 https://stitcher.pluto.tv/stitch/hls/channel/5ca68b45d0bd6c2689c96537/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=ocuqage0urlhccbp8kbecjc830
@@ -462,11 +366,200 @@ https://stitcher.pluto.tv/stitch/hls/channel/589aa03df9ba56a84197a560/master.m3u
 #EXTINF:-1 tvg-logo="http://pluto.tv.s3.amazonaws.com/channels/5b4e94282d4ec87bdcbb87cd/featuredImage.jpg" group-title="24/7 PLUTO TV",Westerns
 https://stitcher.pluto.tv/stitch/hls/channel/5b4e94282d4ec87bdcbb87cd/master.m3u8?deviceType=&deviceMake=&deviceVersion=&deviceId=&appVersion=&deviceDNT=0&deviceModel=&embedPartner=pluto.tv&sid=pb3stkgum0jt2soq367mu97333
 
+#EXTINF:-1,US: FOX Sport 1
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2860
+
+#EXTINF:-1,US: FOX Sport 2
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2861
+
+#EXTINF:-1,US: NBA TV
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5387
+
+#EXTINF:-1,US: TBS HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3587
+
+#EXTINF:-1,US: SYFY HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5238
+
+#EXTINF:-1,US: SPIKE HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5237
+
+#EXTINF:-1,US: NICKELODEN HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5236
+
+#EXTINF:-1,US: Cartoon Network HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7932
+
+#EXTINF:-1,US: Cozi TV
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5225
+
+#EXTINF:-1,US: STARZ EDGE HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5397
+
+#EXTINF:-1,US: Starz Comedy
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5396
+
+#EXTINF:-1,US: Showtime Showcase
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5402
+
+#EXTINF:-1,US: Showtime Next
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5399
+
+#EXTINF:-1,US: Showtime Extreme
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5398
+
+#EXTINF:-1,US: ShowTime 2 HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5401
+
+#EXTINF:-1,US: ShowTime HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5390
+
+#EXTINF:-1,US: CBS HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/7800
+
+#EXTINF:-1,US: National Geographic HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5404
+
+#EXTINF:-1,US: Investigation Discovery
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5410
+
+#EXTINF:-1,US: HISTORY
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5405
+
+#EXTINF:-1,US: HBO Family
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5400
+
+#EXTINF:-1,US: Food Network HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5403
+
+#EXTINF:-1,US: TENNIS HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5407
+
+#EXTINF:-1,US: Discovery Life HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5409
+
+#EXTINF:-1,US: Discovery Channel HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5408
+
+#EXTINF:-1,US: Cinemax Moremax
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5395
+
+#EXTINF:-1,US: Cinemax East
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5393
+
+#EXTINF:-1,US: Cinemax ActionMax East
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5394
+
+#EXTINF:-1,US: Cinemax 5 StarMax
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5392
+
+#EXTINF:-1,US: Bein Sports USA HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5391
+
+#EXTINF:-1,US: Animal Planet HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5406
+
+#EXTINF:-1,US:  HBO Zone HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5389
+
+#EXTINF:-1,US:  HBO East HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5388
+
+#EXTINF:-1,US: FX HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5231
+
+#EXTINF:-1,US: FOX Business HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5233
+
+#EXTINF:-1,US: ESPN HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5227
+
+#EXTINF:-1,US: CW HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5230
+
+#EXTINF:-1,US: COMEDY CENTRAL HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5242
+
+#EXTINF:-1,US: Buzzr
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5244
+
+#EXTINF:-1,US: CBS News HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/8098
+
+#EXTINF:-1,US: BRAVO HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5228
+
+#EXTINF:-1,US: AMC HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5229
+
+#EXTINF:-1,US: ABC HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5239
+
+#EXTINF:-1,US: A&E TV HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5240
+
+#EXTINF:-1,US: LIFE TIME HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3588
+
+#EXTINF:-1,US: Fox 46 HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3590
+
+#EXTINF:-1,US: HBO SIGNATURE
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3591
+
+#EXTINF:-1,US: MSNBC HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/8000
+
+#EXTINF:-1,US: HBO HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3592
+
+#EXTINF:-1,US: HALLMARK
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3593
+
+#EXTINF:-1,US: H2
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3594
+
+#EXTINF:-1,US: A&E HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/3585
+
+#EXTINF:-1,US: Bravo
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2654
+
+#EXTINF:-1,US: CNN HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/876
+
+#EXTINF:-1,US: NFL Network HD 1080P
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2863
+
+#EXTINF:-1,US: NBC SPORT
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/2864
+
+#EXTINF:-1,US: USA Network HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/871
+
+#EXTINF:-1,US: HBO Family HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/878
+
+#EXTINF:-1,US: Starz Cinema HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/874
+
+#EXTINF:-1,US: HBO Plus
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/875
+
+#EXTINF:-1,US: ABC News HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/873
+
+#EXTINF:-1,US: ESPN
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/872
+
+#EXTINF:-1,US: ESPN 2 HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5386
+
+#EXTINF:-1,US: WWE HD
+http://client-proiptv.com:8080/EX-KINGiptvPKf/Gyh4AZD064gOIf58F/5184
+
 #EXTINF:-1,USA-CNN
 http://es2020.in:8000/1987644939683/3463967507705/2895
-
-#EXTINF:-1,USA-NBC
-http://es2020.in:8000/1987644939683/3463967507705/7936
 
 #EXTINF:-1,USA-CNBC
 http://es2020.in:8000/1987644939683/3463967507705/3521
@@ -509,6 +602,11 @@ http://es2020.in:8000/1987644939683/3463967507705/7937
 
 #EXTINF:-1,USA-HISTORY
 http://es2020.in:8000/1987644939683/3463967507705/7842
+
+
+
+
+
 
 
 
