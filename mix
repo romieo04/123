@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1,US: ABC HD
+#EXTINF:-1,group-title="USA",ABC HD
 http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/8191
 #EXTINF:-1,US: A&E HD
 http://ip.sltv.be:8000/33B4fETo2R/oyqfpicadG/137339
