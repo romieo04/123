@@ -1,65 +1,68 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="",Ace TV (1080p)
-https://lte.wiseplayout.com/WiseM3U8_30/master.m3u8
-#EXTINF:-1 tvg-id="",Automotion (1080p)
-https://lte.wiseplayout.com/WiseM3U8_4/master.m3u8
-#EXTINF:-1 tvg-id="BabyFirst.us",BabyFirst (1080p)
-https://lte.wiseplayout.com/WiseM3U8_12/master.m3u8
-#EXTINF:-1 tvg-id="",Beani TV (1080p)
-https://lte.wiseplayout.com/WiseM3U8_13/master.m3u8
-#EXTINF:-1 tvg-id="",Best Action Movies (1080p)
-https://lte.wiseplayout.com/WiseM3U8_14/master.m3u8
-#EXTINF:-1 tvg-id="",Best Classic Movies (1080p)
-https://lte.wiseplayout.com/WiseM3U8_15/master.m3u8
-#EXTINF:-1 tvg-id="",Best Drama Movies (1080p)
-https://lte.wiseplayout.com/WiseM3U8_16/master.m3u8
-#EXTINF:-1 tvg-id="",Best Thriller Movies (1080p)
-https://lte.wiseplayout.com/WiseM3U8_17/master.m3u8
-#EXTINF:-1 tvg-id="",Billiards+ (1080p)
-https://lte.wiseplayout.com/WiseM3U8_18/master.m3u8
-#EXTINF:-1 tvg-id="",Cartoon TV (1080p)
-https://lte.wiseplayout.com/WiseM3U8_5/master.m3u8
-#EXTINF:-1 tvg-id="",CinePast (1080p)
-https://lte.wiseplayout.com/WiseM3U8_6/master.m3u8
-#EXTINF:-1 tvg-id="",Comedy Tadka (1080p)
-https://lte.wiseplayout.com/WiseM3U8_27/master.m3u8
-#EXTINF:-1 tvg-id="",Drive + Speed (1080p)
-https://lte.wiseplayout.com/WiseM3U8_8/master.m3u8
-#EXTINF:-1 tvg-id="",Escape TV (1080p)
-https://lte.wiseplayout.com/WiseM3U8_7/master.m3u8
-#EXTINF:-1 tvg-id="",Face Culture TV (1080p)
-https://lte.wiseplayout.com/WiseM3U8_3/master.m3u8
-#EXTINF:-1 tvg-id="",Fight TV (1080p)
-https://lte.wiseplayout.com/WiseM3U8_23/master.m3u8
-#EXTINF:-1 tvg-id="",Goal TV (1080p)
-https://lte.wiseplayout.com/WiseM3U8_1/master.m3u8
-#EXTINF:-1 tvg-id="",Hi-5 (1080p)
-https://lte.wiseplayout.com/WiseM3U8_31/master.m3u8
-#EXTINF:-1 tvg-id="",Homerun TV (1080p)
-https://lte.wiseplayout.com/WiseM3U8_29/master.m3u8
-#EXTINF:-1 tvg-id="",Hoop TV (1080p)
-https://lte.wiseplayout.com/WiseM3U8_28/master.m3u8
-#EXTINF:-1 tvg-id="",Hunt Fish TV (1080p)
-https://lte.wiseplayout.com/WiseM3U8_2/master.m3u8
 #EXTINF:-1 tvg-id="JustforLaughsGags.us",Just for Laughs Gags (1080p)
 https://lte.wiseplayout.com/wisem3u8_9/master.m3u8
-#EXTINF:-1 tvg-id="",Kung Fu+ (1080p)
-https://lte.wiseplayout.com/WiseM3U8_10/master.m3u8
-#EXTINF:-1 tvg-id="",Naija Gold Reels (1080p)
-https://lte.wiseplayout.com/WiseM3U8_11/master.m3u8
-#EXTINF:-1 tvg-id="",PeekFlick (1080p)
-https://lte.wiseplayout.com/WiseM3U8_26/master.m3u8
-#EXTINF:-1 tvg-id="",Ric+ (1080p)
-https://lte.wiseplayout.com/WiseM3U8_32/master.m3u8
-#EXTINF:-1 tvg-id="RugbyZoneTV.fr",Rugby Zone TV (1080p)
-https://lte.wiseplayout.com/WiseM3U8_19/master.m3u8
-#EXTINF:-1 tvg-id="",Sacred Sites TV (1080p)
-https://lte.wiseplayout.com/WiseM3U8_20/master.m3u8
-#EXTINF:-1 tvg-id="",Test My Ride (1080p)
-https://lte.wiseplayout.com/WiseM3U8_21/master.m3u8
-#EXTINF:-1 tvg-id="",The Explorers (1080p)
-https://lte.wiseplayout.com/WiseM3U8_22/master.m3u8
-#EXTINF:-1 tvg-id="",The Ring (1080p)
-https://lte.wiseplayout.com/WiseM3U8_24/master.m3u8
-#EXTINF:-1 tvg-id="",Wai Lana Yoga (1080p)
-https://lte.wiseplayout.com/WiseM3U8_25/master.m3u8
+#EXTINF:-1 tvg-id="BETHerEast.us",BET Her East
+http://fl2.moveonjoy.com/BET_HER/index.m3u8
+#EXTINF:-1 tvg-id="BETJams.us",BET Jams
+http://fl3.moveonjoy.com/BET_Jams/index.m3u8
+#EXTINF:-1 tvg-id="BETSoul.us",BET Soul
+http://fl2.moveonjoy.com/BET_SOUL/index.m3u8
+#EXTINF:-1 tvg-id="CNBC.us",CNBC
+http://fl2.moveonjoy.com/CNBC/index.m3u8
+#EXTINF:-1 tvg-id="ComedyCentralEast.us",Comedy Central East (720p)
+http://fl3.moveonjoy.com/Comedy_Central/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports1.us",Fox Sports 1
+http://fl2.moveonjoy.com/FOX_Sports_1/index.m3u8
+#EXTINF:-1 tvg-id="FoxSports2.us",Fox Sports 2
+http://fl2.moveonjoy.com/FOX_Sports_2/index.m3u8#EXTINF:-1 tvg-id="HallmarkChannelEast.us",Hallmark Channel East
+http://fl2.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8#EXTINF:-1 tvg-id="MGMPlusEast.us",MGM+ East
+http://fl2.moveonjoy.com/EPIX/index.m3u8
+#EXTINF:-1 tvg-id="MGMPlusMarquee.us",MGM+ Marquee
+http://fl2.moveonjoy.com/EPIX_DRIVE_IN/index.m3u8
+#EXTINF:-1 tvg-id="MLBNetwork.us",MLB Network
+http://fl2.moveonjoy.com/MLB_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="MSNBC.us",MSNBC (720p)
+http://fl2.moveonjoy.com/MSNBC/index.m3u8
+#EXTINF:-1 tvg-id="MTV2East.us",MTV2 (720p)
+https://fl5.moveonjoy.com/MTV_2/index.m3u8
+#EXTINF:-1 tvg-id="MTVClassicEast.us",MTV Classic (360p)
+https://fl5.moveonjoy.com/MTV_CLASSIC/index.m3u8
+#EXTINF:-1 tvg-id="MTVLive.us",MTV Live (720p)
+https://fl5.moveonjoy.com/MTV_LIVE/index.m3u8
+#EXTINF:-1 tvg-id="MTVU.us",mtvU (480p)
+https://fl5.moveonjoy.com/MTV_U/index.m3u8
+#EXTINF:-1 tvg-id="NewsNationEast.us",NewsNation East
+http://fl2.moveonjoy.com/NEWS_NATION/index.m3u8
+#EXTINF:-1 tvg-id="NFLNetwork.us",NFL Network
+http://fl2.moveonjoy.com/NFL_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="NickJrEast.us",Nick Jr. East (720p)
+https://fl5.moveonjoy.com/NICK_JR/index.m3u8
+#EXTINF:-1 tvg-id="NickMusic.us",Nick Music (480p)
+http://fl5.moveonjoy.com/NICK_MUSIC/index.m3u8
+#EXTINF:-1 tvg-id="OxygenEast.us",Oxygen East
+http://fl2.moveonjoy.com/OXYGEN/index.m3u8
+#EXTINF:-1 tvg-id="ParamountNetworkEast.us",Paramount Network East
+http://fl2.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8
+#EXTINF:-1 tvg-id="Showtime2East.us",Showtime 2 East
+http://fl2.moveonjoy.com/SHOWTIME_2/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeEast.us",Showtime East
+http://fl2.moveonjoy.com/SHOWTIME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeExtremeEast.us",Showtime Extreme East
+http://fl2.moveonjoy.com/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeNextEast.us",Showtime Next East
+http://fl2.moveonjoy.com/SHOWTIME_NEXT/index.m3u8
+#EXTINF:-1 tvg-id="ShowtimeWomenEast.us",Showtime Women East
+http://fl2.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 tvg-id="StarzComedyEast.us",Starz Comedy East
+http://fl2.moveonjoy.com/STARZ_COMEDY/index.m3u8
+#EXTINF:-1 tvg-id="StarzEdgeEast.us",Starz Edge East
+http://fl2.moveonjoy.com/STARZ_EDGE/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreActionEast.us",Starz Encore Action East
+http://fl2.moveonjoy.com/STARZ_ENCORE_ACTION/index.m3u8
+#EXTINF:-1 tvg-id="StarzEncoreEast.us",Starz Encore East
+http://fl2.moveonjoy.com/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 tvg-id="SyfyEast.us",Syfy East
+http://fl2.moveonjoy.com/SYFY/index.m3u8
+#EXTINF:-1 tvg-id="YesNetwork.us",Yes Network
+http://fl2.moveonjoy.com/YES_NETWORK/index.m3u8
+
